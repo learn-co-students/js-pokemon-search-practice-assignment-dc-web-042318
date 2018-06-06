@@ -15,7 +15,7 @@ p.s. Don't forget to include the ability to toggle the card image and reset the 
 
 We're building out a search feature in our application (no backend persistence). A user should be able to search for a Pokemon and flip that Pokemon card to see the back side.
 
-In addition to listing out each pokemon card,
+In addition to listing out each pokemon card with the pokemon's details,
   1. Implement a filter functionality for your Pokemon list.
   2. Implement a flip functionality on each Pokemon.
 
