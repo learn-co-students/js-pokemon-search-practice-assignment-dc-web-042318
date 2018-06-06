@@ -1,4 +1,4 @@
-{
+const pokemon = {
   "pokemons": [
     {
       "height": 10,
