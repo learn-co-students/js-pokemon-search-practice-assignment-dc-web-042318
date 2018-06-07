@@ -1,4 +1,4 @@
-{
+let jsonData = JSON.parse(`{
   "pokemons": [
     {
       "height": 10,
@@ -7328,4 +7328,4 @@
       }
     }
   ]
-}
+}`)
